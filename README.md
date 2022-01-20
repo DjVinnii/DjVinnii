@@ -30,4 +30,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DjVinnii&custom_title=DjVinnii%27s%20GitHub%20Stats" />
+
 [website]: https://vinniict.nl

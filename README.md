@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Vincent 👋
 
 <!--
 **DjVinnii/DjVinnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt="vinniict.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+### Languages and Tool:
+
+[website]: https://vinniict.nl
